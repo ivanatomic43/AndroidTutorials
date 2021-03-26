@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidTutorial Part 2</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_signin">Sign in</string>
+
+    <string name="menu_cast">Cast</string>
+    <string name="menu_print">Print</string>
+
+    <string name="menu_move">Move</string>
+    <string name="menu_delete">Delete</string>
+
+    <string name="menu_reply">Reply</string>
+    <string name="menu_reply_all">Reply All</string>
+    <string name="menu_forward">Forward</string>
+</resources>
